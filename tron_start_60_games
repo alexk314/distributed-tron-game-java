@@ -1,0 +1,71 @@
+#!/usr/bin/env bash
+rm -f Log\ *.txt
+echo "Old log files have been deleted"
+
+echo "Build project:"
+mvn clean package
+
+
+echo "Start Tron Application:"
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar&
+java -jar target/tron-0.1.jar
+
